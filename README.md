@@ -1,1 +1,1 @@
-# macOS_setup_guide
+# macOS Setup Guide
